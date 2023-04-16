@@ -22,8 +22,7 @@ I'm Doha, a data engineering student 👩‍💻  at the National School of Appl
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="![image](https://user-images.githubusercontent.com/108173949/232326715-34d9059c-e089-4db5-8d6c-aa91444d94fa.png)
-"/>
+  <img src="![image](https://user-images.githubusercontent.com/108173949/232326715-34d9059c-e089-4db5-8d6c-aa91444d94fa.png)"/>
 </p>
 
 
