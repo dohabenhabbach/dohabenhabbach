@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 I'm Doha, a data engineering student 👩‍💻  at the National School of Applied Science Al Hociema in Morocco 🇲🇦. My passion for the field drives me to seek practical experience to complement my theoretical knowledge. With a strong motivation and dedication, I continuously strive to expand my skill set and acquire new knowledge every day.
 
 ## Technical Skills
-
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 
 
