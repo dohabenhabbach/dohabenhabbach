@@ -25,6 +25,7 @@ I'm Doha, a data engineering student 👩‍💻  at the National School of Appl
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_scala_icon_130180.png" width="50" height="50"/>
 </p>
 
 
