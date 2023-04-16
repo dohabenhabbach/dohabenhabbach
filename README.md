@@ -20,7 +20,7 @@ I'm Doha, a data engineering student 👩‍💻  at the National School of Appl
 
 <h2>Technical Skills</h2>
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_jupyter_icon_130494.png" width="40" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_jupyter_icon_130494.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
