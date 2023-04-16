@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Doha, a data engineering student 👩‍💻  at the National School of Applied Science Al Hociema in Morocco 🇲🇦. My passion for the field drives me to seek practical experience to complement my theoretical knowledge. With a strong motivation and dedication, I continuously strive to expand my skill set and acquire new knowledge every day.
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+# Connect with me
+<a href=”[https://www.linkedin.com/in/yushi95](https://www.linkedin.com/in/doha-benhabbach-343161224/)/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
