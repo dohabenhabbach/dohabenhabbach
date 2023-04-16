@@ -18,13 +18,10 @@ I'm Doha, a data engineering student 👩‍💻  at the National School of Appl
 
 ## Technical Skills
 
-- Programming languages: 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-- Frameworks: 
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-- Data tools: 
   <img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png"/> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
