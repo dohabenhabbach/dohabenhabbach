@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm Doha, a data engineering student 👩‍💻  at the National School of Applied Science Al Hociema in Morocco 🇲🇦. My passion for the field drives me to seek practical experience to complement my theoretical knowledge. With a strong motivation and dedication, I continuously strive to expand my skill set and acquire new knowledge every day.
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
