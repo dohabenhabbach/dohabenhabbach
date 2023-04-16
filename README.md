@@ -28,6 +28,8 @@ I'm Doha, a data engineering student 👩‍💻  at the National School of Appl
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_scala_icon_130180.png" width="50" height="50"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/apache_spark_logo_icon_170561.png" width="50" height="50"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/apache_hadoop_logo_icon_169586.png" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_r_icon_130212.png" width="50" height="50"/>
+  
 </p>
 
 
